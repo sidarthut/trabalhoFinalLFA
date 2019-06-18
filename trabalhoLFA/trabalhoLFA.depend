@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1560863548 source:c:\users\sidarthut\desktop\trabalholfa\main.cpp
+	<iostream>
+	<cstring>
+	"funcoes.h"
+
+1560863885 source:c:\users\sidarthut\desktop\trabalholfa\funcoes.cpp
+	<iostream>
+	<cstring>
+	"funcoes.h"
+
+1560863548 c:\users\sidarthut\desktop\trabalholfa\funcoes.h
+
