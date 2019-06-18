@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1560803790 source:c:\users\gebraz\desktop\lista\main.cpp
+	<iostream>
+	"lista.h"
+	"aluno.h"
+
+1560803780 c:\users\gebraz\desktop\lista\lista.h
+	"aluno.h"
+
+1560800884 c:\users\gebraz\desktop\lista\aluno.h
+
+1560802367 source:c:\users\gebraz\desktop\lista\lista.cpp
+	"lista.h"
+	<iostream>
+
